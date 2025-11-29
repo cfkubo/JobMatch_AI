@@ -144,6 +144,13 @@ http://127.0.0.1:5000/
 *   Integration with dedicated job board APIs (e.g., LinkedIn, Indeed) for more comprehensive job searches.
 *   User accounts and personalized job tracking.
 
+
+# Screenshots
+
+![1](testfiles/1.png)
+![2](testfiles/2.png)
+
+
 ## Contributing
 
 This project is proof of concept and I belive a lot cloud be improved. Please feel free to fork and implement your ideas
