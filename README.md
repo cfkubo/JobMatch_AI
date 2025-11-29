@@ -146,6 +146,6 @@ http://127.0.0.1:5000/
 
 ## Contributing
 
-A lot cloud be improve. Please feel free to fork and implement your ideas
+This project is proof of concept and I belive a lot cloud be improved. Please feel free to fork and implement your ideas
 
 
