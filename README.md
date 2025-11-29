@@ -146,8 +146,6 @@ http://127.0.0.1:5000/
 
 ## Contributing
 
-(Standard contributing guidelines would go here)
+A lot cloud be improve. Please feel free to fork and implement your ideas
 
-## License
 
-(Standard license information would go here)
