@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JobMatch.AI</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>JobMatch.AI</h1>
+        
+        <div class="card">
+            <h2>Upload Your Resume</h2>
+            <input type="file" id="resumeFile" accept=".pdf">
+            <button id="uploadButton">Upload and Analyze</button>
+            <p id="uploadStatus"></p>
+        </div>
+
+        <div class="card">
+            <h2>AI Analysis & Recommendations</h2>
+            <div id="aiAnalysisResults">
+                <p>Upload a resume to see analysis here.</p>
+            </div>
+            <button id="searchJobsButton" style="display:none;">Search for Jobs</button>
+        </div>
+
+        <div class="card">
+            <h2>Web Search Results</h2>
+            <div id="webSearchResults">
+                <p>Web search results will appear here.</p>
+            </div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

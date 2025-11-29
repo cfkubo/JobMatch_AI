@@ -61,11 +61,9 @@ Follow these steps to get JobMatch.AI up and running on your local machine.
 
 (Assuming you are in the project root directory where you intend to create this project)
 ```bash
-# If you are starting from an empty directory and recreating the project based on instructions
-# then this step is effectively 'creating the project directory'.
-# In a real scenario, you would clone:
-# git clone https://github.com/your_username/JobMatch.AI.git
-# cd JobMatch.AI
+
+git clone https://github.com/cfkubo/JobMatch_AI
+cd JobMatch_AI
 ```
 
 ### 2. Set up a Virtual Environment

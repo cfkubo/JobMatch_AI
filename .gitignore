@@ -1,0 +1,26 @@
+# Environment variables
+.env
+
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+
+# IDE-specific files (e.g., VS Code)
+.vscode/
+
+# macOS specific
+.DS_Store
+
+# Logs
+*.log
+
+# Test/build artifacts
+*.egg-info/
+.pytest_cache/
+dist/
+build/
