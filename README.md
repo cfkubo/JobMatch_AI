@@ -1,6 +1,6 @@
-# JobMatch.AI
+# JobMatch_AI
 
-JobMatch.AI is an intelligent application designed to help users find relevant job opportunities by analyzing their resumes and leveraging AI-powered web searches. It utilizes a local Ollama large language model for resume analysis and integrates with a web search API to find matching job postings across the internet.
+JobMatch_AI is an intelligent application designed to help users find relevant job opportunities by analyzing their resumes and leveraging AI-powered web searches. It utilizes a local Ollama large language model for resume analysis and integrates with a web search API to find matching job postings across the internet.
 
 ## Features
 
@@ -148,9 +148,13 @@ http://127.0.0.1:5000/
 # Screenshots
 
 ![1](testfiles/1.png)
-![2](testfiles/2.png)
 
-# JoMatch Song : [https://suno.com/song/4e817b6f-4e17-4f1e-88c0-9b7ccd0cd255](https://suno.com/song/4e817b6f-4e17-4f1e-88c0-9b7ccd0cd255)
+---
+
+![2](testfiles/2.png)
+---
+
+# JobMatch Song : [https://suno.com/song/4e817b6f-4e17-4f1e-88c0-9b7ccd0cd255](https://suno.com/song/4e817b6f-4e17-4f1e-88c0-9b7ccd0cd255)
 
 ## Contributing
 
